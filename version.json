@@ -1,4 +1,10 @@
 {
   "version": "1.2",
   "url": "https://github.com/robleavenworth/SLAB_app/releases/latest/download/SLAB.html"
+  "notes": "https://github.com/robleavenworth/SLAB_app/releases/tag/v1.3",
+  "highlights": [
+    "Print and Download now work in Chrome and Edge, including OneDrive",
+    "Sharper 300 DPI previews and printouts",
+    "Missing preview thumbnails now repair themselves"
+  ]
 }
